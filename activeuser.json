@@ -76,5 +76,11 @@
         "key": "eren",
         "expirydate": "30-12-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "9da45c393801cab5",
+        "key": "amir",
+        "expirydate": "30-12-9999",
+        "Allowoffline": true
     }
 ]
