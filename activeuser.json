@@ -82,5 +82,11 @@
         "key": "amir",
         "expirydate": "30-12-9999",
         "Allowoffline": true
+    },
+    {
+        "device_id": "3ee5ea94b07f75a6",
+        "key": "Nitro",
+        "expirydate": "2025-8-31",
+        "Allowoffline": true
     }
 ]
