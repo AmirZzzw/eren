@@ -64,5 +64,11 @@
         "key": "eren",
         "expirydate": "30-12-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "x3393vshwji282828ss",
+        "key": "eren",
+        "expirydate": "30-12-2026",
+        "Allowoffline": true
     }
 ]
