@@ -22,5 +22,11 @@
         "key": "eren",
         "expirydate": "3633728823678227373672",
         "Allowoffline": true
+    },
+    {
+        "device_id": "gshh",
+        "key": "eren",
+        "expirydate": "3633728823678227373672",
+        "Allowoffline": true
     }
 ]
