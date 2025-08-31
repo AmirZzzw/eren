@@ -64,5 +64,11 @@
         "key": "Nitro",
         "expirydate": "2-9-2025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "1631e3ff31eb0bf2",
+        "key": "eren",
+        "expirydate": "2025-8-1",
+        "Allowoffline": true
     }
 ]
