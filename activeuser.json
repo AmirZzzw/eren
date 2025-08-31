@@ -16,5 +16,11 @@
         "key": "t",
         "expirydate": "30-2-2025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "",
+        "key": "eren",
+        "expirydate": "3633728823678227373672",
+        "Allowoffline": true
     }
 ]
