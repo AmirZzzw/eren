@@ -1,0 +1,14 @@
+[
+    {
+        "device_id": "9da45c393801cab5",
+        "key": "AmirSx",
+        "expirydate": "30-12-9999",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "9da45c393801cab5",
+        "key": "test",
+        "expirydate": "1-9-2025",
+        "Allowoffline": true
+    }
+]
