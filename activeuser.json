@@ -76,5 +76,11 @@
         "key": "ABOLKON",
         "expirydate": "2026-8-31",
         "Allowoffline": true
+    },
+    {
+        "device_id": "624f346e471c0637",
+        "key": "ABOLKON",
+        "expirydate": "2026-9-1",
+        "Allowoffline": true
     }
 ]
