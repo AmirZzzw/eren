@@ -34,5 +34,11 @@
         "key": "Thsn",
         "expirydate": "2025-9-4",
         "Allowoffline": true
+    },
+    {
+        "device_id": "1631e3ff31eb0bf2",
+        "key": "Thsn",
+        "expirydate": "3-9-2025",
+        "Allowoffline": true
     }
 ]
