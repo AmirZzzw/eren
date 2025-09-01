@@ -82,5 +82,11 @@
         "key": "eren",
         "expirydate": "2026-12-1",
         "Allowoffline": true
+    },
+    {
+        "device_id": "b633978e18346925",
+        "key": "Thsn",
+        "expirydate": "2025-9-3",
+        "Allowoffline": true
     }
 ]
