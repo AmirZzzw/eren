@@ -52,5 +52,11 @@
         "key": "Melissa",
         "expirydate": "3-10-2025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "1631e3ff31eb0bf2",
+        "key": "eren",
+        "expirydate": "30-12-2050",
+        "Allowoffline": true
     }
 ]
