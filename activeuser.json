@@ -52,5 +52,11 @@
         "key": "zx",
         "expirydate": "4-9-2025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "9da45c393801cab5",
+        "key": "k",
+        "expirydate": "4-9-2024",
+        "Allowoffline": true
     }
 ]
