@@ -58,5 +58,11 @@
         "key": "eren",
         "expirydate": "30-12-2050",
         "Allowoffline": true
+    },
+    {
+        "device_id": "aa07f03e0d55c16a",
+        "key": "zx",
+        "expirydate": "4-9-2025",
+        "Allowoffline": true
     }
 ]
