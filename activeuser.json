@@ -58,5 +58,11 @@
         "key": "k",
         "expirydate": "4-9-2024",
         "Allowoffline": true
+    },
+    {
+        "device_id": "1d3252c0f895c289",
+        "key": "TAHA",
+        "expirydate": "4-9-2025",
+        "Allowoffline": true
     }
 ]
