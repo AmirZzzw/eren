@@ -70,5 +70,11 @@
         "key": "kon",
         "expirydate": "4-12-2025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "fac96049aba0e5ee",
+        "key": "amir",
+        "expirydate": "7-10-20222225",
+        "Allowoffline": true
     }
 ]
