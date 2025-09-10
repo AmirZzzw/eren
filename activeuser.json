@@ -88,5 +88,11 @@
         "key": "xcxc",
         "expirydate": "25-9-2025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "37d8ca8eed514eea",
+        "key": "VIP",
+        "expirydate": "9-10-3030",
+        "Allowoffline": true
     }
 ]
