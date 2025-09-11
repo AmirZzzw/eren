@@ -88,5 +88,11 @@
         "key": "xcxc",
         "expirydate": "25-9-2025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "e46ce51985a56e70",
+        "key": "TEST12",
+        "expirydate": "12-9-2025",
+        "Allowoffline": true
     }
 ]
