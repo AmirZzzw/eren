@@ -94,17 +94,5 @@
         "key": "TEST12",
         "expirydate": "12-9-2025",
         "Allowoffline": true
-    },
-    {
-        "device_id": "89267c22511e560e",
-        "key": "TEST179",
-        "expirydate": "30-9-2030",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "89267c22511e560e",
-        "key": "TEST179",
-        "expirydate": "30-9-2030",
-        "Allowoffline": true
     }
 ]
