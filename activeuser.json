@@ -100,5 +100,11 @@
         "key": "Mkop",
         "expirydate": "30-12-2025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "ffa474f2aa8f412d",
+        "key": "mmd",
+        "expirydate": "30-12-2025",
+        "Allowoffline": true
     }
 ]
