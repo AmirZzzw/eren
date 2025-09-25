@@ -94,5 +94,11 @@
         "key": "Mastee",
         "expirydate": "30-12-9000",
         "Allowoffline": true
+    },
+    {
+        "device_id": "e460c96a3a8cb3b9",
+        "key": "MR",
+        "expirydate": "30-12-2900",
+        "Allowoffline": true
     }
 ]
