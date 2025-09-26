@@ -100,5 +100,11 @@
         "key": "MR",
         "expirydate": "30-12-2900",
         "Allowoffline": true
+    },
+    {
+        "device_id": "9f71b80e14602df5",
+        "key": "M1v3",
+        "expirydate": "26-10-2025",
+        "Allowoffline": true
     }
 ]
