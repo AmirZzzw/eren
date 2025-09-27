@@ -106,5 +106,11 @@
         "key": "M1v3",
         "expirydate": "26-10-2025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "c4f082713480963d",
+        "key": "xcxc",
+        "expirydate": "13-10-2025",
+        "Allowoffline": true
     }
 ]
