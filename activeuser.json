@@ -112,5 +112,11 @@
         "key": "xcxc",
         "expirydate": "13-10-2025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "fdb5fd1b1050a4c8",
+        "key": "ofbar",
+        "expirydate": "30-12-2025",
+        "Allowoffline": true
     }
 ]
